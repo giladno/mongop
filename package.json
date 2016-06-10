@@ -1,0 +1,19 @@
+{
+  "name": "mongop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/giladno/mongop.git"
+  },
+  "author": "Gilad Novik <gilad@novik.ca>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giladno/mongop/issues"
+  },
+  "homepage": "https://github.com/giladno/mongop#readme",
+  "dependencies": {
+    "mongojs": "^2.4.0"
+  }
+}
