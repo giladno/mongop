@@ -1,6 +1,6 @@
 {
-  "name": "mongop",
-  "version": "1.0.1",
+  "name": "@giladno/mongop",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/giladno/mongop#readme",
   "dependencies": {
-    "bluebird": "^3.4.6",
+    "bluebird": "^3.5.0",
     "mongojs": "^2.4.0"
   }
 }
